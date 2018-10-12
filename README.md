@@ -1,5 +1,5 @@
 # SoftwareEngineeringPractice
-This is where our team write and update our code and trace each one's process
+This is where our team write and update our code and trace each one's process\n
 class number 07111501
 teammates:
     Xianglin Guo
